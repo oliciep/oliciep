@@ -1,6 +1,8 @@
-### Welcome to my Github! 👋
- 
+### Welcome to my GitHub! 👋
+
+- 👀 I'm interested in artificial intelligence and software development, but I enjoy all areas of coding
 - 🔭 I’m currently working on a **React/Spring** based spotify application
-- 🌱 I’m currently learning about REST API's 
-- 📫 Find more about me and my projects at https://olivercieplinski.com
+- 🌱 I’m currently learning how to use _SpringBoot_
+- 📫 You can reach me at olivercieplinski@gmail.com
+- 🎈 Find more about me and my projects at https://olivercieplinski.com
 
